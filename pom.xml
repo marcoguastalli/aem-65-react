@@ -12,7 +12,7 @@
     <modules>
         <module>all</module>
         <module>core</module>
-        <!--module>ui.frontend</module-->
+        <module>ui.frontend</module>
         <module>ui.apps</module>
         <module>ui.apps.structure</module>
         <module>ui.config</module>
@@ -41,8 +41,8 @@
         <spa.project.core.version>1.3.16</spa.project.core.version>
         <!-- Frontend Maven Plugin https://github.com/eirslett/frontend-maven-plugin/tags -->
         <frontend-maven-plugin.version>1.15.4</frontend-maven-plugin.version>
-        <node.version>v23.11.1</node.version>
-        <npm.version>9.6.7</npm.version>
+        <node.version>v12.16.2</node.version>
+        <npm.version>6.14.16</npm.version>
         <!-- OSGi settings -->
         <bnd.version>6.4.0</bnd.version>
         <componentGroupName>aemreact</componentGroupName>
